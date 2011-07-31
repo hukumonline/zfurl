@@ -1,0 +1,22 @@
+
+
+<h2>Top Links</h2>
+<br>
+<table>
+	<tr>
+		<th>URL</th>
+		<th>Count</th>
+	</tr>
+	<?php foreach ($this->data as $key => $val): ?>
+	<tr>
+		<?php
+			if (!preg_match('/http:/', $val['link'])){
+				echo '<td><a href="http://'. $val['link'] .'">'. $val['link'] .'</a></td>'; 
+			}else{
+				echo '<td><a href="'. $val['link'] .'">'. $val['link'] .'</a></td>'; 
+			}
+		?>
+		<td><?php echo $val['count']; ?></td>
+	</tr>
+	<?php endforeach; ?>
+</table>

@@ -1,0 +1,45 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Gdata/Geo
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Entry.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+9bba6a0bc0e6d6fe57e46f1183dfdfa6
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Feed.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+680225e5a41b86be51d2038a2b84a2f3
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Extension
+dir
+

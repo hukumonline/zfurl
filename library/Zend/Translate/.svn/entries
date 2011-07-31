@@ -1,0 +1,43 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Translate
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Adapter
+dir
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+7c0002781c1c563a9f1d3d4f382e2cd5
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Adapter.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+2736896754c04baa93d8e17b4edca00d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

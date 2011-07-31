@@ -1,0 +1,28 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Acl/Resource
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+21ce03f743a3ce717534fca2162eb2a2
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

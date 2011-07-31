@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Service/SlideShare
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+3188125b6b972d7f0b554b9067e8503f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+SlideShow.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+17acebcfa59a71b866a343af6b56d881
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/TimeSync
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+1b5e3c12cfa076cc6b8965b3f7d04624
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Ntp.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+c59d31a3e3bf831a258f0a6c77be21cd
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Protocol.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+0fe9b554db164cd8eeedd9ab888379a3
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Sntp.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+7ddfce31ec83bde4d95a3595a96162f9
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

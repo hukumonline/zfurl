@@ -1,0 +1,73 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/OpenId
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Provider.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+52057140158f9477580cb9682e0ce7fa
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Consumer.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+4dd407240d01fd8a4702ce08faa357d1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Extension.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+279f0b1eb98b65df40c2055efb213c12
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+0edc308a4a739e802214b720de5892ff
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Provider
+dir
+
+Consumer
+dir
+
+Extension
+dir
+

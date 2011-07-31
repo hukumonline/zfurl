@@ -1,0 +1,24 @@
+<h1>API</h1>
+<p>
+	With the API you can make a request from any external application. The API uses an RestFul XML interface.
+</p>
+
+<h3>Make a Request</h3>
+<p>
+To make a request to shorten a URL make a request like:
+<blockquote>http://zfurl.us/api?url=tomprinty.com</blockquote>
+</p>
+
+<h3>Response</h3>
+<p>
+Once a request is made the service will respond with XML like:
+<blockquote>
+	<pre>
+		&lt;response&gt;
+			&lt;zfurl&gt;http://zfurl.us/cb&lt;/zfurl&gt;
+			&lt;status&gt;success&lt;/status&gt;
+		&lt;/response&gt;
+
+	</pre>
+</blockquote>
+</p>

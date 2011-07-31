@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Amf/Value
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+MessageHeader.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+12ba8205f2fb2d287d068cf6b8cfa6ae
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+MessageBody.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+993c7e8059f0719d6801b3153c056b40
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+ByteArray.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+38a1d09f0d4d0df68ae94584d6e0866c
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+TraitsInfo.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+b06fbe5bc0370f5f4bc3352c288873f7
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Messaging
+dir
+

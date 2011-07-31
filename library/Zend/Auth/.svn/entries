@@ -1,0 +1,46 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Auth
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Adapter
+dir
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+395218af5c466cdaf6347826d47c527b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Result.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+61713d73db0fe1ef8d833429288f5a70
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Storage
+dir
+

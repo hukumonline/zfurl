@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Filter/File
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+LowerCase.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+160afd3e0a540b641fdd3b9212c90708
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+UpperCase.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+be7f4bc17483ed72ff13957249805e2e
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Rename.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+c34e0ffc0bc98974842739df2993e5ce
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

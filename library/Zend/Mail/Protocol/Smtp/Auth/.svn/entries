@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Mail/Protocol/Smtp/Auth
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Plain.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+7f3798c07e41363443617e198e3f5c5d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Login.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+280cbc866704ec7f5b071d53ef3a15ce
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Crammd5.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+2d9d49e772980d7d691708229b7ccbd1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

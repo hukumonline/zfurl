@@ -1,0 +1,115 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Auth/Adapter
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Http
+dir
+
+DbTable.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+023d2e4d6e6fac50237a310597d35698
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+b95fa38158b506fdfb4c411e1275833c
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+OpenId.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+fd3b916e7735f9e4781ddb7b88a56dd6
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Http.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+162a004e216e476c429ad897da05e985
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Digest.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+5d1c87b726977773180e646d547c5465
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Ldap.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+22b9f98d6ac37c18018c494822859257
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+57d02f576ea63bffda146649ffa602ad
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+InfoCard.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+8c7947a50d5b288637d7311c93dd4ea1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

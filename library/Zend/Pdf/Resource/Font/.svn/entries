@@ -1,0 +1,82 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Pdf/Resource/Font
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Simple.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+bcc882f4f97b8fcc98a79eba0b21cb3d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+CidFont
+dir
+
+Type0.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+69e3cf653e42b30106dc294bf8964630
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Simple
+dir
+
+Extracted.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+e93cab5671d0572773c5a93fd6bdfe38
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+FontDescriptor.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+c59931e4b464d871886b62c0af4a72f7
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+CidFont.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+3ac03230cb100c6ae81c104b90a23bae
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

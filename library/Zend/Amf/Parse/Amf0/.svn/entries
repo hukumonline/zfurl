@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Amf/Parse/Amf0
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Serializer.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+1548a23034ffe73a5d9f87ade6d623c1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Deserializer.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+0613d5bfc6652f0fa54bb43c64a2a8d8
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

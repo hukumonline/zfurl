@@ -1,0 +1,46 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search/Lucene/Storage
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+File
+dir
+
+Directory
+dir
+
+File.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+382d2af14aa123c7f73850fe08ca9687
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Directory.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+ee1ec649dd3e5883fef28f05e899e196
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

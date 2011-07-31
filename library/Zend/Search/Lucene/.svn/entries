@@ -1,0 +1,139 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search/Lucene
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Analysis
+dir
+
+Document.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+d972f3e04db5fb9414782bdc09e8552d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+4f7af315a3fc3b8fcd2259fbbd78a0d7
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Storage
+dir
+
+Search
+dir
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+41743669cc145308a30e58f48d320c47
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Index
+dir
+
+Proxy.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+9af7cebe05ef73dab5cab3c013b5e8d0
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+LockManager.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+3619e3f4c0fec4f9324626f9202c8546
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Field.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+13c2349be14c876b4287232320741bb3
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+FSMAction.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+95acc5883096ecfa60afcd79c261b4d5
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+FSM.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+3a2204f3d8c22fd02e6f6bbeec5a2c51
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+PriorityQueue.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+c7b000e7f09f5f5b2d3467b3628f63bc
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Document
+dir
+

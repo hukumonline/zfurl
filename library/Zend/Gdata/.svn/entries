@@ -1,0 +1,324 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Gdata
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exif.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+127d7bad4f807c61a75ef77e9d4f03a8
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Gbase
+dir
+
+Entry.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+c23b84ad29833d0925131a052897ce81
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Feed.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+3796515db031ea272a3ee155c8299932
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exif
+dir
+
+Calendar.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+7a91311f59c211bf7395b5cf0ea27085
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Gapps.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+e35bdb1a21cd7de58d477e4cf85f2c10
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Extension.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+3b797e5fcf04c8d3f2af5dbab34b20ee
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Media.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+c5f47e2468eb0d6aa7b5e79ebcaaf692
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+App.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+ced000329e39efd53228cdac9fd8ceec
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Calendar
+dir
+
+Gapps
+dir
+
+Extension
+dir
+
+DublinCore.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+fb43dd7c63ebcdab6367e57c76d684d1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Docs.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+4e4ee82657c44040b51ebc803e8b5a33
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Media
+dir
+
+Spreadsheets.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+ba2bc425d42fce6f259efcad597be157
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+App
+dir
+
+YouTube.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+c8913bec843bb592cb1c29b7cfb6130a
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Kind
+dir
+
+DublinCore
+dir
+
+Docs
+dir
+
+Spreadsheets
+dir
+
+Query.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+71cfc61a76d8cbd6f4da393a4be46937
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Health.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+23a120981a0de44ad61d70016d65908b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+YouTube
+dir
+
+ClientLogin.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+7dd76b2753510e8c4eb25a5f7b3a2685
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Geo.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+fd88d87410bd8736c0f7b80c7cb31d4e
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+AuthSub.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+4179636b926097f6065e961b88599dd0
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Photos.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+b47f669593262824a992f0517e2b7d15
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Books.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+86dc3bdca8369efbf12a2a6ea7455303
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+HttpClient.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+489fdd090d6a4a986779d810e4392b9a
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Health
+dir
+
+Gbase.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+92bc3f595019785aabb86f875ffa1934
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Geo
+dir
+
+Photos
+dir
+
+Books
+dir
+

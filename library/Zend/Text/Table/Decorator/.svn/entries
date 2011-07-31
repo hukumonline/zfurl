@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Text/Table/Decorator
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+a5dbcaaed76d0e37c5c4113bcf260401
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Unicode.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+5e97b23fc5a96538e89d6d7e36f798eb
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Ascii.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+d3929017aa5eb5953f177ef12cbe7135
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

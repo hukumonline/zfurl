@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/InfoCard/Xml/Security/Transform
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+a3937df73d5cc0b08aef2c1794af9d77
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+ba5885614bcc61ad95146b3ef0fddd8f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+EnvelopedSignature.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+f7d1bcf5d33c02cfcebbbaaa718758aa
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+XmlExcC14N.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+c98802f7a4d9a643329871072ca53e1f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

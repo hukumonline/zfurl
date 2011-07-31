@@ -1,0 +1,94 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Feed
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Element.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+5d8fa80d2f7d809bbc91e3cb3acf19a9
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Entry
+dir
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+daf26c74759c3b31fdd2cfab751836ba
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Builder
+dir
+
+Atom.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+ec397bbc6678ded9e21084c420e37d38
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Abstract.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+f1ab81d6ac8c2cffe36befdc60a48559
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Builder.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+4cf2e9d108c683ec0c4ae014d55237f8
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Rss.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+c9196435ef228f8b9ebe971fcbd2abd3
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search/Lucene/Analysis
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Analyzer
+dir
+
+TokenFilter
+dir
+
+Token.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+01b05ec0b6cd22df2c3a93924a38d09d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Analyzer.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+955f77cbf115c947dcf5393042303596
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+TokenFilter.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+2555c1d0881f42b9ba4c0f48555e4889
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/library/Zend/Gdata/Gapps/Extension
+END
+Quota.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/library/Zend/Gdata/Gapps/Extension/Quota.php
+END
+Name.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/library/Zend/Gdata/Gapps/Extension/Name.php
+END
+EmailList.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/library/Zend/Gdata/Gapps/Extension/EmailList.php
+END
+Nickname.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/library/Zend/Gdata/Gapps/Extension/Nickname.php
+END
+Login.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/library/Zend/Gdata/Gapps/Extension/Login.php
+END

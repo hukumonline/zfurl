@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Mail/Transport
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Sendmail.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+a9e9d530adb89abeeefa66ec0bd836d7
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+99295b01fdcb35360b814e6b2ff55a2a
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Smtp.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+cb2176b92a13d599e750898c26918b94
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Abstract.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+9379d70115cfdaa82576255acfde5dbd
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

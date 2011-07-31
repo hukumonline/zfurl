@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/InfoCard/Xml/KeyInfo
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+d38fa1d2f8b3ccefd12babbf818ded18
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Abstract.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+33ba4df2993cea7259147d0caeaa6288
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Default.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+53c5e1da65148d470452bf1aa383a317
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+XmlDSig.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+ff1a41a3a153e5a167bd499aed87a78e
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

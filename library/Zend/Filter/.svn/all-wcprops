@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/library/Zend/Filter
+END
+PregReplace.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/library/Zend/Filter/PregReplace.php
+END
+Int.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Int.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Exception.php
+END
+Input.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Input.php
+END
+RealPath.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/library/Zend/Filter/RealPath.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Interface.php
+END
+StringTrim.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/library/Zend/Filter/StringTrim.php
+END
+StripNewlines.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/library/Zend/Filter/StripNewlines.php
+END
+HtmlEntities.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/library/Zend/Filter/HtmlEntities.php
+END
+BaseName.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/library/Zend/Filter/BaseName.php
+END
+Alnum.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Alnum.php
+END
+Dir.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Dir.php
+END
+StripTags.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/library/Zend/Filter/StripTags.php
+END
+StringToLower.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/library/Zend/Filter/StringToLower.php
+END
+Digits.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Digits.php
+END
+StringToUpper.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/library/Zend/Filter/StringToUpper.php
+END
+Inflector.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Inflector.php
+END
+Alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/library/Zend/Filter/Alpha.php
+END

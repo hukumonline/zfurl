@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Http
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Cookie.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+d4cbf56ce86a2c46a33227719cfebd68
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+3ca8a8c18146ef3e4f28ef3f8ea98db6
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Response.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+864429b7fa3323ae219ae3b99d9fb5b2
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Client.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+6cea014d9ec0ad89673d02516110351b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+CookieJar.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+2a9c47bcb1ffa67527dff8587ccdbe6e
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Client
+dir
+

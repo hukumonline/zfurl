@@ -1,0 +1,67 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Config
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Writer.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+d84574233cff63337a1831982a1afc3d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+4f4521bc2c906d3fe19b742355370abc
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Ini.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+816c0f16622c7d909427892e257b55ab
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Xml.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+eb44e35aa8098bfdbf160d24d9716c15
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Writer
+dir
+

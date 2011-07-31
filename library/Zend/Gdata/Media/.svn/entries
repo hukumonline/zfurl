@@ -1,0 +1,45 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Gdata/Media
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Entry.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+033afbff36a0a9a3f9fc1a2d3ca680d3
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Feed.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+8389a1ebf504a322ac908424f9b67afb
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Extension
+dir
+

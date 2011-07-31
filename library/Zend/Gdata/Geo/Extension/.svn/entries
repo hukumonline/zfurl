@@ -1,0 +1,55 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Gdata/Geo/Extension
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+GmlPoint.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+3d4666881749ce09b18ad1a0e5d47352
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+GeoRssWhere.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+a76bacd8722f4e2c00704e302c125e5e
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+GmlPos.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+d3932fcb34866c32bd379b9f56480628
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+

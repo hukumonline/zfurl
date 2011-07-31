@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Session/Validator
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+HttpUserAgent.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+2b89b37ea93b0f582c1a0753aa6a0d0f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+1d6cfb0f8afa1f691056fce411cc6508
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Abstract.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+aef6fc515c68242b5124790c0bafe09d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

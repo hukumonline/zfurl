@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Mail/Storage/Writable
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+8a8507195a7d7c0bf0d5b0fb65940479
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Maildir.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+63568e6d7a69e4608fb5d45f7449980b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

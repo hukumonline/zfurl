@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Service/Nirvanix/Namespace
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Base.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+e729ad01667d10d5c30e8e563e3c4ad7
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Imfs.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+82483c2f0e784407dece9567ff7f1b0c
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

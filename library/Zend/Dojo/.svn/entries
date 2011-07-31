@@ -1,0 +1,58 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Dojo
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Data.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+380791bfb3adbee5a19ad85f9c2302d9
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Form
+dir
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+fd5aef3223b1c62ee3d287c15af3e29f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Form.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+261d7bc3a30018f4d76673d94d2260c6
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+View
+dir
+

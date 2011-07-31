@@ -1,0 +1,160 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search/Lucene/Search
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Similarity
+dir
+
+QueryEntry
+dir
+
+QueryParserException.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+37ca8ae097e5adea15daf8ddc0c23e3b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Weight
+dir
+
+QueryLexer.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+778192f805e9d8c4c5b5ab5864be910d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Query.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+e904a30529ac5ff998f93dfbb1a70764
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+QueryToken.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+2637d34db59a3b5b2c2e3be68e1ebb4b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+QueryHit.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+9f6c8b0ca87fbacbbb3acf09009182ed
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Query
+dir
+
+QueryParser.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+563f897c2d34db666bf9492381362c0b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Similarity.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+96bc99bf37a3464f83b2ebae574a8c7a
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+BooleanExpressionRecognizer.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+d3adeedccb6444f5a807253935ec40d0
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+QueryParserContext.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+aca592cf2580ee4e26ddce48553a2a5e
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Weight.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+b9598eec38d995ee0005b02f7b8520c2
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+QueryEntry.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+805a207feb2b351a6128ccbbbb0ea60f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

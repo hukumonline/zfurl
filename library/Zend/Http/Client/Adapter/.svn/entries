@@ -1,0 +1,76 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Http/Client/Adapter
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+9ad468f16cb73f317f861625d5d0614d
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Test.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+f7383458ecffdb78dbd3ffc0c31dd4bf
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+de496cfc3393709e77992941feac381f
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Proxy.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+9f7dfc2474357135d57126dd80e91f68
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Socket.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+0c36cc83ee11ed64ac8cf2e1f98f4855
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

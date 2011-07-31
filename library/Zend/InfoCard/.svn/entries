@@ -1,0 +1,61 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/InfoCard
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Adapter
+dir
+
+Cipher.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+080813d36b199ba54a286af8ed1d1c22
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Xml
+dir
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+69cc43b78f936e56d0972a70bac9f039
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Cipher
+dir
+
+Claims.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+5a76f57063ee5580b5b8c3e6d543afb1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

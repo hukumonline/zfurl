@@ -1,0 +1,115 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/XmlRpc
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Fault.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+54e0d5d3d7c2be35c6af712ccd6d7ac0
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Value.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+c9fcfbb3a21c4a03670cc26285d43685
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+cdc7344efa4ed97a5bfaa43952e730a1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Response.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+67b1eaf58fcf405ac353ee75dbd2d148
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Client.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+e58b6db2a8139084f75d1540e68579b7
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Server
+dir
+
+Request
+dir
+
+Server.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+99ca352714877123ded1cab038e06887
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Value
+dir
+
+Client
+dir
+
+Request.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+aa47d9512cf863284507383c0ad67514
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Response
+dir
+

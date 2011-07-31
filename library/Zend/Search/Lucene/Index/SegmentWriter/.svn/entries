@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search/Lucene/Index/SegmentWriter
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+DocumentWriter.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+c52776bd639320b4dc3d3df263828fc6
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+StreamWriter.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+06eb4e8c78dd2e369ad1cf84b606ee54
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

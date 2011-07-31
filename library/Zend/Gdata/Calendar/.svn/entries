@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Gdata/Calendar
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+ListEntry.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+9e5e2d81710b122974daeaced021cc9b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+ListFeed.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+bd5d55b3c61f56e01964784b232aa3a2
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+EventEntry.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+986572c9e1272f27552cbbc12e6209c1
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+EventFeed.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+f56e8232f0e4afb49bf5df8635ae0615
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Extension
+dir
+
+EventQuery.php
+file
+
+
+
+
+2009-03-28T20:12:32.000000Z
+046459dcabd32756209d5ba24e071a98
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

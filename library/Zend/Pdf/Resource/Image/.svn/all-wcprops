@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/library/Zend/Pdf/Resource/Image
+END
+Png.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/library/Zend/Pdf/Resource/Image/Png.php
+END
+Jpeg.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/library/Zend/Pdf/Resource/Image/Jpeg.php
+END
+Tiff.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/library/Zend/Pdf/Resource/Image/Tiff.php
+END

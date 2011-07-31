@@ -1,0 +1,64 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search/Lucene/Analysis/TokenFilter
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+LowerCaseUtf8.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+3cebb46dc64acaf05e84553a69923432
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+ShortWords.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+03df2e7d13741844f34e8d9206ca9693
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+StopWords.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+586b37fbc0d57d9c00c1b8af28f6d848
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+LowerCase.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+097eaeda5e8af6e7a5365fd79bfa49a0
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

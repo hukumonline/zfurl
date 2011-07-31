@@ -1,0 +1,40 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Locale/Math
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+0576a2709d583fd202b7c31f497ff164
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+PhpMath.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+c320341b0f01a761f2b5184ff94e5bfd
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

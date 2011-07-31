@@ -1,0 +1,41 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Service/Twitter
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+79cbc1393b7c66966e3f7bc80703e991
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+has-props
+
+Search.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+3ecd36e338370b14e6d03590d91c6556
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+

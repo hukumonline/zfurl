@@ -1,0 +1,43 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Wildfire/Plugin
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+FirePhp.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+871b8e24fee0f916f1ea1825c66f7393
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Interface.php
+file
+
+
+
+
+2009-03-28T20:12:31.000000Z
+c4b77241d3c27881cb549ec1679b6fa0
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+FirePhp
+dir
+

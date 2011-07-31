@@ -1,0 +1,43 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Search
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Lucene.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+2472ff089e1a3b9f675cdebffc9ebf53
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:34.000000Z
+623bd98435d24e38fd942eba688bd3df
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Lucene
+dir
+

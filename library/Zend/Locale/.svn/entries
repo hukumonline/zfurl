@@ -1,0 +1,70 @@
+8
+
+dir
+2
+https://zfurl.googlecode.com/svn/trunk/library/Zend/Locale
+https://zfurl.googlecode.com/svn
+
+
+
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+
+svn:special svn:externals svn:needs-lock
+
+Math.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+26637caaa3da37c29dc337e95e5be2bd
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Data.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+7bc1a4fe7f4720dcbc1cd06cd1e1262b
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Exception.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+477475945a4cd9637b8a1cdd4f790d93
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
+Data
+dir
+
+Math
+dir
+
+Format.php
+file
+
+
+
+
+2009-03-28T20:12:33.000000Z
+29177de6eab458c95acf3dceea039316
+2009-03-15T21:53:24.674540Z
+2
+tprinty
+
